@@ -1,0 +1,18 @@
+
+
+****** DATABASE *******
+
+advertisements
+
+****** TABLES *******
+
+advertisements
+-id
+-image
+-text
+-url
+-launchin
+-appname
+-appversion
+-timer
+-clicked
